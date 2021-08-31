@@ -1,0 +1,14 @@
+{
+    "name": "yottabit/contact",
+    "description": "This will send admin contact details and save te query in Database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yottabit\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+
+}
