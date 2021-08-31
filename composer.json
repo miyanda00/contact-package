@@ -9,6 +9,14 @@
         }
     },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Yottabit\\Contact\\ContactServiceProvider"
+        ]
+       
+    }
+}
 
 }
